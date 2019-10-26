@@ -1,4 +1,4 @@
-# Final project
+# Hello world
  
 ## Author
 * Dmitry Goncharuk
